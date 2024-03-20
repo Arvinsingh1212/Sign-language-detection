@@ -74,5 +74,5 @@ with open("model-bw.json", "w") as json_file:
 print('Model Saved')
 
 classifier.save_weights('model-bw.h5')
-print('Weights saved')
+print('Weights saveddd')
 
