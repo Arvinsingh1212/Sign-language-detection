@@ -355,6 +355,6 @@ class Application:
         self.tx6.place(x = 230,y = 670)
         self.tx6.config(text = "Dr. Vrijendra Singh", font = ("Courier",30,"bold"))
 
-print("Starting Application....")
+print("Starting Application...")
 pba = Application()
 pba.root.mainloop()
